@@ -7,3 +7,5 @@ Repository Test x Corso Git Hub
 Modifica Test Local (no master)
 
 - Modificato in Locale
+
+- Mofica Rebase Origin Master
