@@ -5,3 +5,5 @@ Repository Test x Corso Git Hub
 
 # Questa è una modifica per test local 
 Modifica Test Local (no master)
+
+- Modificato in Locale
