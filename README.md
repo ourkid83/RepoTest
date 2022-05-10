@@ -9,3 +9,5 @@ Modifica Test Local (no master)
 - Modificato in Locale
 
 - Mofica Rebase Origin Master
+
+- Conflitto Pull su Local
